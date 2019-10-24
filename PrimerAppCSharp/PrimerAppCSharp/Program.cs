@@ -10,6 +10,7 @@ namespace PrimerAppCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Gio, Bienvenido");
+            Console.ReadKey();
         }
     }
 }
